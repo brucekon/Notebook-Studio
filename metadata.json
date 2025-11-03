@@ -1,0 +1,7 @@
+{
+  "name": "Notebook LM Studio",
+  "description": "An all-in-one content creation and analysis studio powered by Gemini. Edit images, analyze videos, chat with an AI, transcribe audio, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
